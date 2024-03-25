@@ -17,3 +17,4 @@
 <img width=“270" alt=“2” src=“https://github.com/tahaozmn/UICollectionView/assets/139132956/d9594133-bf57-4105-9b1a-c92cb7749c47”>
 
 
+<img width=“270” alt=“5" src=“https://github.com/sedatbarlin/Pickers/assets/71966913/92754885-efc8-4747-8071-23dd33ceb40a”>
